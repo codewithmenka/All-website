@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Append (1)/assets"
+		},
+		{
+			"path": "../../../Append (1)/forms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bakery Website Design",
+		"liveServer.settings.port": 5501
+	}
+}
